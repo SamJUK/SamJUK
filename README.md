@@ -9,4 +9,5 @@
 
 🔨 BASHing all the things on the SHells
 
-![Pretty Pictures](icons.jpg)
+
+<img align="center" alt="Pretty Pictures" src="icons.jpg" />
