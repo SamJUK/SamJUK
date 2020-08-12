@@ -10,4 +10,4 @@
 🔨 BASHing all the things on the SHells
 
 
-<img align="center" alt="Pretty Pictures" src="icons.jpg" />
+<img align="center" alt="Pretty Pictures" src="https://github.com/SamJUK/SamJUK/raw/master/icons.jpg" />
