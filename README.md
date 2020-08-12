@@ -8,3 +8,5 @@
 🐧 Linux issues? Problem solved. `systemctl disable firewalld && chmod -R 777 /`
 
 🔨 BASHing all the things on the SHells
+
+![Pretty Pictures](icons.jpg)
