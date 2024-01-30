@@ -1,13 +1,18 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/naXyAp2VYMR4k/giphy.gif" />
-
 ## Hello 👋 I'm Sam
-🤖 Automate all the things... aka, I'm Lazy
+A Senior Web Engineer within a Hybrid role focusing on the following areas.
 
-🐛 Magento patch update? Whats broken this time?
+🛍️ Magento 2 Development
+  - Theme + Module Development
+  - Integrating + Extending 3rd party modules
+  - Chief Bug finder 🐛
 
-🐧 Linux issues? Problem solved. `systemctl disable firewalld && chmod -R 777 /`
+👾 Devops - Using Ansible & Terraform to modernize legacy development practises with modern solutions
+  - Migrating legacy self hosted services (Sentry, Backup Servers, CI Runners, Empheral Host) to IaC via Ansible & Terraform
+  - CI Empheral Hosts (Feature Hosts)
+  - Hashicorp Vault (SSH Cert signing, private data storage)
 
-🔨 BASHing all the things on the SHells
-
+📀 Server Hosting - Migrating Merchants to various bespoke hosting solutions depending on size
+  - Cloud (Hetzner, AWS, GCP, DO) & Bare Metal (Hetzner, OVH, Rackspace, Aptum, ANS)
+  - Autoscaling, High Availability, Multi Available Zones
 
 <img align="center" alt="Pretty Pictures" src="https://github.com/SamJUK/SamJUK/raw/master/icons.jpg" />
