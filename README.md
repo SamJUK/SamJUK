@@ -1,19 +1,20 @@
 ## Hello 👋 I'm Sam
-A Senior Web Engineer within a Hybrid role focusing on the following areas.
+A Senior Web Engineer within a Hybrid role focusing on the following areas.<br>I often braindump about all things OPS + Dev related over at [https://www.sdj.pw/](https://www.sdj.pw/). 
 
 ### 🛍️ Magento 2 Development
   - Theme + Module Development
   - Integrating + Extending 3rd party modules
-  - Chief Bug finder 🐛
+  - Core/Vendor bug patching
 
 ### 👾 Devops - Using Ansible & Terraform to modernize legacy development practises with modern solutions
-  - Migrating legacy self hosted services (Sentry, Backup Servers, CI Runners, Empheral Host) to IaC via Ansible & Terraform
-  - CI Empheral Hosts (Feature Hosts)
+  - Implementing self hosted services such as (Sentry, OpenVPN, Backup Servers, CI Runners, Empheral Host) with IaC via Ansible & Terraform
+  - CI Empheral Hosts via Docker
   - Hashicorp Vault (SSH Cert signing, private data storage)
 
-### 📀 Server Hosting - Migrating Merchants to various bespoke hosting solutions depending on size
+### 📀 Server Hosting - Migrating Merchants to various bespoke hosting solutions
   - Cloud (Hetzner, AWS, GCP, DO) & Bare Metal (Hetzner, OVH, Rackspace, Aptum, ANS)
   - Autoscaling, High Availability, Multi Available Zones
+  - Ansible Playbooks, AMIs, Docker Containers
 
 <img align="center" alt="Pretty Pictures" src="https://github.com/SamJUK/SamJUK/raw/master/icons.jpg" />
 
