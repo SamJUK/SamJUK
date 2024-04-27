@@ -1,5 +1,5 @@
 ## Hello 👋 I'm Sam
-A Senior Web Engineer within a Hybrid role focusing on the following areas.<br>I often braindump about all things OPS + Dev related over at [https://www.sdj.pw/](https://www.sdj.pw/). 
+A Senior Web Engineer within a Hybrid role focusing on the following areas.<br>I often braindump about all things OPS + Dev related over at [https://www.sdj.pw/]([https://www.sdj.pw/](https://www.sdj.pw/?utm_source=github&utm_medium=github_repository&utm_campaign=github_repository_samjuk)). 
 
 ### 🛍️ Magento 2 Development
   - Theme + Module Development
