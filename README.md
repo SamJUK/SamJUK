@@ -7,7 +7,7 @@ Principal Magento Engineer. If a store breaks, slows down or sets itself on fire
 
 Over a decade of Magento 2, covering module and checkout development, the hosting and platforms underneath, CI/CD and preview environments, AI factories / agents / workflows, and security response when the next exploit drops. Laravel, WordPress 🤮 & Go along the way.
  
-<br>
+<br><br>
 
 
 <table>
