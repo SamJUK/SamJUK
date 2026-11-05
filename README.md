@@ -1,15 +1,3 @@
-### Hey, I'm Sam
- 
-<img align="right" src="https://static.wikia.nocookie.net/dumbway2sdie/images/3/34/Tumblr_mdrg02Z9ju1qz9y4ko1_500.gif" width="240px"></img>
-
-Principal Magento Engineer. If a store breaks, slows down or sets itself on fire, I’m usually the one poking at it.
-
-
-Over a decade of Magento 2, covering module and checkout development, the hosting and platforms underneath, CI/CD and preview environments, AI factories / agents / workflows, and security response when the next exploit drops. Laravel, WordPress 🤮 & Go along the way.
- 
-<br><br>
-
-
 <table>
 <tr>
 <th align="left">Security</th>
@@ -46,8 +34,6 @@ Over a decade of Magento 2, covering module and checkout development, the hostin
 </td>
 </tr>
 </table>
-That's just the public stuff. Most of the cool stuff lives in private repos.
-<br><br>
 
 Writing at [samdjames.uk](https://www.samdjames.uk/) · [LinkedIn](https://www.linkedin.com/in/samjuk/)
  
